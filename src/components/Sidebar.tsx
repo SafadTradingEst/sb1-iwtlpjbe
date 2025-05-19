@@ -93,7 +93,7 @@ const SidebarContent = ({ user, navItems, location, onItemClick }) => {
         <div className="flex items-center">
           <Clock className="h-8 w-8 text-blue-500" />
           <div className="ml-3">
-            <h2 className="text-lg font-bold text-gray-800 dark:text-white">Task Tracker</h2>
+            <h2 className="text-lg font-bold text-gray-800 dark:text-white">System Task</h2>
             <p className="text-xs text-gray-500 dark:text-gray-400">{t('dashboard.title')}</p>
           </div>
         </div>
