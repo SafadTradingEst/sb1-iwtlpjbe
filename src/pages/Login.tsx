@@ -50,7 +50,7 @@ const Login: React.FC = () => {
           <div className="inline-flex justify-center items-center p-3 bg-blue-500 text-white rounded-full mb-4">
             <Clock size={32} />
           </div>
-          <h1 className="text-2xl font-bold text-gray-800">Employee Task Tracking System</h1>
+          <h1 className="text-2xl font-bold text-gray-800">Employee Task System</h1>
           <p className="text-gray-600 mt-2">
             {isLogin ? 'Sign in to manage your tasks' : 'Create a new account'}
           </p>
