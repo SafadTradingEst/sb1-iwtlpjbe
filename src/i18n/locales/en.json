@@ -1,0 +1,23 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "settings": "Settings",
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "notifications": "Notifications",
+    "export": "Export",
+    "print": "Print",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "addRecord": "Add New Record",
+    "records": "Records",
+    "statistics": "Statistics",
+    "departments": "Departments"
+  }
+}
